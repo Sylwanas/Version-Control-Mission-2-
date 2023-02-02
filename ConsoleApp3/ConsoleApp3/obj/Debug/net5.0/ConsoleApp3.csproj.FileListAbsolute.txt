@@ -1,0 +1,16 @@
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.exe
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.deps.json
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.json
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.dll
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.dll
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\refint\ConsoleApp3.dll
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.pdb
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\joel\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net5.0\ref\ConsoleApp3.dll
