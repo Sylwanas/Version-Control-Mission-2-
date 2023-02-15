@@ -1,0 +1,16 @@
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\bin\Debug\net5.0\Method Mission 1.exe
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\bin\Debug\net5.0\Method Mission 1.deps.json
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\bin\Debug\net5.0\Method Mission 1.runtimeconfig.json
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\bin\Debug\net5.0\Method Mission 1.runtimeconfig.dev.json
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\bin\Debug\net5.0\Method Mission 1.dll
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\bin\Debug\net5.0\Method Mission 1.pdb
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\Method Mission 1.csproj.AssemblyReference.cache
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\Method Mission 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\Method Mission 1.AssemblyInfoInputs.cache
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\Method Mission 1.AssemblyInfo.cs
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\Method Mission 1.csproj.CoreCompileInputs.cache
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\Method Mission 1.dll
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\refint\Method Mission 1.dll
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\Method Mission 1.pdb
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\Method Mission 1.genruntimeconfig.cache
+C:\Users\joel\source\repos\Method Mission 1\Method Mission 1\obj\Debug\net5.0\ref\Method Mission 1.dll
