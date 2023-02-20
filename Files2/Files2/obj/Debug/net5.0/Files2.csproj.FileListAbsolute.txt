@@ -1,0 +1,17 @@
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\bin\Debug\net5.0\Backers.txt
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\bin\Debug\net5.0\Files2.exe
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\bin\Debug\net5.0\Files2.deps.json
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\bin\Debug\net5.0\Files2.runtimeconfig.json
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\bin\Debug\net5.0\Files2.runtimeconfig.dev.json
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\bin\Debug\net5.0\Files2.dll
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\bin\Debug\net5.0\Files2.pdb
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\Files2.csproj.AssemblyReference.cache
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\Files2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\Files2.AssemblyInfoInputs.cache
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\Files2.AssemblyInfo.cs
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\Files2.csproj.CoreCompileInputs.cache
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\Files2.dll
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\refint\Files2.dll
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\Files2.pdb
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\Files2.genruntimeconfig.cache
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Files2\Files2\obj\Debug\net5.0\ref\Files2.dll
