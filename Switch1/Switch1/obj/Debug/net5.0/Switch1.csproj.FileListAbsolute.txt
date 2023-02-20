@@ -1,0 +1,16 @@
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\bin\Debug\net5.0\Switch1.exe
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\bin\Debug\net5.0\Switch1.deps.json
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\bin\Debug\net5.0\Switch1.runtimeconfig.json
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\bin\Debug\net5.0\Switch1.runtimeconfig.dev.json
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\bin\Debug\net5.0\Switch1.dll
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\bin\Debug\net5.0\Switch1.pdb
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\Switch1.csproj.AssemblyReference.cache
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\Switch1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\Switch1.AssemblyInfoInputs.cache
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\Switch1.AssemblyInfo.cs
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\Switch1.csproj.CoreCompileInputs.cache
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\Switch1.dll
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\refint\Switch1.dll
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\Switch1.pdb
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\Switch1.genruntimeconfig.cache
+C:\Users\joel\Documents\GitHub\Version-Control-Mission-2-\Switch1\Switch1\obj\Debug\net5.0\ref\Switch1.dll
